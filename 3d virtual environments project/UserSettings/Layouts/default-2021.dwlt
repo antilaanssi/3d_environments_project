@@ -22,7 +22,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Game
+=======
+  m_Title: Scene
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
   m_Title: Scene
 >>>>>>> parent of cc1ceb6 (minor fixing)
@@ -136,7 +140,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 121
+=======
+  controlID: 3545
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
   controlID: 3545
 >>>>>>> parent of cc1ceb6 (minor fixing)
@@ -173,7 +181,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 122
+=======
+  controlID: 3550
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
   controlID: 3550
 >>>>>>> parent of cc1ceb6 (minor fixing)
@@ -544,9 +556,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 1.1000137, y: -4.997719, z: -65.10001}
     speed: 2
     m_Value: {x: 1.1000137, y: -4.997719, z: -65.10001}
+=======
+    m_Target: {x: -178.32709, y: 36.34096, z: -758.6726}
+    speed: 2
+    m_Value: {x: -178.32709, y: 36.34096, z: -758.6726}
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     m_Target: {x: -178.32709, y: 36.34096, z: -758.6726}
     speed: 2
@@ -611,9 +629,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.25088906, y: 0.70602703, z: -0.30020207, w: -0.5902129}
     speed: 2
     m_Value: {x: -0.25090262, y: 0.7060652, z: -0.30021828, w: -0.59024477}
+=======
+    m_Target: {x: 0.0010386406, y: 0.9916925, z: 0.00803556, w: -0.12834427}
+    speed: 2
+    m_Value: {x: 0.0008461235, y: 0.99170744, z: 0.0065480396, w: -0.1283462}
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     m_Target: {x: 0.0010386406, y: 0.9916925, z: 0.00803556, w: -0.12834427}
     speed: 2
@@ -2833,7 +2857,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/material
+=======
+    - Assets
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     - Assets
 >>>>>>> parent of cc1ceb6 (minor fixing)

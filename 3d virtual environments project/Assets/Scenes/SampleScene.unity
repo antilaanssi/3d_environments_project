@@ -6850,10 +6850,13 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1987399118}
   - component: {fileID: 1987399122}
   m_Layer: 6
 =======
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
 >>>>>>> parent of cc1ceb6 (minor fixing)
 =======
@@ -6950,9 +6953,12 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &1987399122
 MonoBehaviour:
 =======
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
 >>>>>>> parent of cc1ceb6 (minor fixing)
 =======

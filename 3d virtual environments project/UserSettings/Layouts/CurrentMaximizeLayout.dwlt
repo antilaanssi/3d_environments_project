@@ -29,7 +29,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 11846
+=======
+  controlID: 3312
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
   controlID: 3312
 >>>>>>> parent of cc1ceb6 (minor fixing)
@@ -2675,6 +2679,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SaveData:
     - dockPosition: 0
       containerId: overlay-toolbar__top
@@ -3313,6 +3318,8 @@ MonoBehaviour:
 >>>>>>> parent of cc1ceb6 (minor fixing)
 =======
 >>>>>>> parent of cc1ceb6 (minor fixing)
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
     m_SaveData: []
   m_SearchFilter:
     m_NameFilter: 
@@ -3329,7 +3336,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Folders: []
+=======
+    m_Folders:
+    - Assets
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     m_Folders:
     - Assets
@@ -3359,7 +3371,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: ffffffff00000000426a0000446a0000466a0000486a00004a6a00004c6a00004e6a0000506a0000526a0000546a0000566a0000586a00005a6a00005c6a00005e6a0000606a0000a46a0000006e0000026e0000066e0000ffffff7f
+=======
+    m_ExpandedIDs: ffffffff00000000486a00004a6a00004c6a00004e6a0000506a0000526a0000546a0000566a0000586a00005a6a00005c6a00005e6a0000606a0000626a0000646a0000666a0000686a00006a6a00006c6a00006e6a0000
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     m_ExpandedIDs: ffffffff00000000486a00004a6a00004c6a00004e6a0000506a0000526a0000546a0000566a0000586a00005a6a00005c6a00005e6a0000606a0000626a0000646a0000666a0000686a00006a6a00006c6a00006e6a0000
 >>>>>>> parent of cc1ceb6 (minor fixing)
@@ -3397,6 +3413,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 46a0fdff
 =======
     m_SelectedIDs: 76690000
@@ -3409,6 +3426,8 @@ MonoBehaviour:
     m_ExpandedIDs: ffffffff00000000486a00004a6a00004c6a00004e6a0000506a0000526a0000546a0000566a0000586a00005a6a00005c6a00005e6a0000606a0000626a0000646a0000666a0000686a00006a6a00006c6a00006e6a0000
 >>>>>>> parent of cc1ceb6 (minor fixing)
 =======
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
     m_SelectedIDs: 76690000
     m_LastClickedID: 0
     m_ExpandedIDs: ffffffff00000000486a00004a6a00004c6a00004e6a0000506a0000526a0000546a0000566a0000586a00005a6a00005c6a00005e6a0000606a0000626a0000646a0000666a0000686a00006a6a00006c6a00006e6a0000
@@ -3440,8 +3459,13 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 46a0fdff
     m_LastClickedInstanceID: -155578
+=======
+    m_SelectedInstanceIDs: 76690000
+    m_LastClickedInstanceID: 26998
+>>>>>>> parent of cc1ceb6 (minor fixing)
 =======
     m_SelectedInstanceIDs: 76690000
     m_LastClickedInstanceID: 26998
