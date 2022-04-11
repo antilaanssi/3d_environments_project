@@ -19,11 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-<<<<<<< HEAD
   m_Title: Game
-=======
-  m_Title: Scene
->>>>>>> parent of cc1ceb6 (minor fixing)
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 471}
   m_MaxSize: {x: 10000, y: 10000}
@@ -125,11 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-<<<<<<< HEAD
   controlID: 121
-=======
-  controlID: 3545
->>>>>>> parent of cc1ceb6 (minor fixing)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,11 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-<<<<<<< HEAD
   controlID: 122
-=======
-  controlID: 3550
->>>>>>> parent of cc1ceb6 (minor fixing)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -517,15 +505,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
     m_Target: {x: 1.1000137, y: -4.997719, z: -65.10001}
     speed: 2
     m_Value: {x: 1.1000137, y: -4.997719, z: -65.10001}
-=======
-    m_Target: {x: -178.32709, y: 36.34096, z: -758.6726}
-    speed: 2
-    m_Value: {x: -178.32709, y: 36.34096, z: -758.6726}
->>>>>>> parent of cc1ceb6 (minor fixing)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -572,15 +554,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-<<<<<<< HEAD
     m_Target: {x: -0.25088906, y: 0.70602703, z: -0.30020207, w: -0.5902129}
     speed: 2
     m_Value: {x: -0.25090262, y: 0.7060652, z: -0.30021828, w: -0.59024477}
-=======
-    m_Target: {x: 0.0010386406, y: 0.9916925, z: 0.00803556, w: -0.12834427}
-    speed: 2
-    m_Value: {x: 0.0008461235, y: 0.99170744, z: 0.0065480396, w: -0.1283462}
->>>>>>> parent of cc1ceb6 (minor fixing)
   m_Size:
     m_Target: 149.83327
     speed: 2
@@ -2782,11 +2758,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
     - Assets/material
-=======
-    - Assets
->>>>>>> parent of cc1ceb6 (minor fixing)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
