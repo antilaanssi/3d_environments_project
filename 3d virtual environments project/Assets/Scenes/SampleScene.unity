@@ -6848,10 +6848,13 @@ GameObject:
   - component: {fileID: 1987399120}
   - component: {fileID: 1987399119}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1987399118}
   - component: {fileID: 1987399122}
   m_Layer: 6
 =======
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
   - component: {fileID: 1987399122}
   - component: {fileID: 1987399123}
   m_Layer: 0
@@ -6942,9 +6945,12 @@ Transform:
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &1987399122
 MonoBehaviour:
 =======
+=======
+>>>>>>> parent of cc1ceb6 (minor fixing)
 --- !u!54 &1987399122
 Rigidbody:
   m_ObjectHideFlags: 0
